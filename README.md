@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am addicted to learning new technologies and methodologies and a big fan of human-centric development disciplines like agile, software craftsmanship practices.
+
+Highly experienced in retail applications, payment services, marketing research,  POS terminals , and mobile solutions. 
+
+My current projects are on Java, NodeJS, Flutter, Python and Google Cloud Platform. 
+
+my website is www.ozgurozkok.com and my linkedin profile is https://www.linkedin.com/in/ozgurozkok/
+
+
+
